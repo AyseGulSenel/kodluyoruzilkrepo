@@ -10,7 +10,7 @@ Kodluyoruz Eğitiminde oluşturduğumuz ilk repo. İçerisinde bir adet README d
 Öncelikle projeyi clonelayın. 
 
 bash
- git clone htpps://github.com/ummugulsumm/kodluyoruzilkrepo.git
+ git clone https://github.com/AyseGulSenel/kodluyoruzilkrepo.git
 
 ## *Usage*
 
